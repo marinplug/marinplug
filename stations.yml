@@ -1,0 +1,65 @@
+FranceRadio:
+  FR INTER: http://icecast.radiofrance.fr/franceinter-hifi.aac
+  fip PARIS: http://icecast.radiofrance.fr/fip-hifi.aac
+  fip Nouveautés: http://icecast.radiofrance.fr/fipnouveautes-hifi.aac
+  fip JAZZ: http://icecast.radiofrance.fr/fipjazz-hifi.aac
+  fip POP: http://icecast.radiofrance.fr/fippop-hifi.aac
+  fip ROCK: http://icecast.radiofrance.fr/fiprock-hifi.aac
+  fip MONDE: http://icecast.radiofrance.fr/fipworld-hifi.aac
+  fip ELECTRO: http://icecast.radiofrance.fr/fipelectro-hifi.aac
+  fip GROOVE: http://icecast.radiofrance.fr/fipgroove-hifi.aac
+  fip REGGAE: http://icecast.radiofrance.fr/fipreggae-hifi.aac
+  FR MUSIQUE: http://icecast.radiofrance.fr/francemusique-hifi.aac
+  FR CLASSIQUE++: http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
+
+Radio Nova:
+  nova nuit: http://nova-ln.ice.infomaniak.ch/nova-ln-128.mp3
+  nova nouveau: http://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3
+  nova direct: http://novazz.ice.infomaniak.ch/novazz-128.mp3
+  nova classics: http://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
+
+Rock radios:
+  ouifm rock: http://bluesnrock.stream.ouifm.fr/ouifmbluesnrock-128.mp3
+  1.FM - Classic Rock: http://strm112.1.fm/crock_mobile_mp3
+  Jimi Hendrix Exclu: http://streaming.exclusive.radio/er/hendrix/icecast.audio
+
+Bossa nova:
+  Bossa Nova Brazil: http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
+  Bossa Jazz Brasil: http://centova5.transmissaodigital.com:8412/stream
+  1.FM Bossa Hits: http://strm112.1.fm/bossanova_mobile_mp3
+  1.FM Samba Rock: http://strm112.1.fm/sambarock_mobile_mp3
+  1.FM Samba Hits: http://strm112.1.fm/samba_mobile_mp3
+  1.FM Sertanejo Hits: http://strm112.1.fm/sertanejo_mobile_mp3
+  1.FM Brazil popular Hits: http://strm112.1.fm/mpb_mobile_mp3
+
+Lougne jazz:
+  Lounge BaySmoothJazz: http://sc-sjazz.1.fm:9010/
+
+Casual:
+  76Radio: http://192.240.102.133:9566/stream
+  SomaFM Beat Blender: http://ice1.somafm.com/beatblender-128-mp3
+  Jazz Radio Electro Swing: http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
+  SomaFM Groove Salad: http://ice1.somafm.com/groovesalad-256-mp3
+  SomaFM Lush: http://ice1.somafm.com/lush-128-mp3
+  Allzic Radio R&B: http://allzic10.ice.infomaniak.ch/allzic10.mp3
+  The UK 1940s Radio Station: http://91.121.134.23:8100/1
+
+Electronic:
+  Deep House Lounge: http://198.15.94.34:8006
+  Ibiza Sonica: http://s1.sonicabroadcast.com:7005/stream
+  Bassdrive: http://50.7.98.106:8200
+  SomaFM Fluid: http://ice1.somafm.com/fluid-128-mp3
+
+Chillout:
+  Joint Radio: http://radio.jointil.net:9998
+  SomaFM DEF CON Radio: http://ice1.somafm.com/defcon-256-mp3
+  SomaFM Drone Zone: http://ice1.somafm.com/dronezone-256-mp3
+  SomaFM Mission Control: http://ice1.somafm.com/missioncontrol-128-mp3
+  The Jazz Groove: http://west-mp3-128.streamthejazzgroove.com
+  Radionomy Downbeat: http://streaming.radionomy.com/TempoOfTheDownbeat1
+
+
+
+
+
+
