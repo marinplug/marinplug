@@ -1,0 +1,13 @@
+#--------------------------------------
+# syntaxe: 1er caractère
+# xboot.py          (x pas de mise à jour)
+# ustations.yml     (u mise à jour)
+# +newfile.xx       (+ Ajouter fichier à prévoir)
+# -oldfile.xx       (- Supprimer fichier à prévoir)
+
+xboot.py
+xmain.py
+xGLB.py
+xota_repo.py
+xstations_xml.py
+ustations.yml
