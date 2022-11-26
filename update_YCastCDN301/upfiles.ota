@@ -5,9 +5,9 @@
 # +newfile.xx       (+ Ajouter fichier à prévoir)
 # -oldfile.xx       (- Supprimer fichier à prévoir)
 
-xboot.py
+uboot.py
 xmain.py
 xGLB.py
-xota_repo.py
-xstations_xml.py
-xstations.yml
+uota_repo.py
+ustations_xml.py
+ustations.yml
